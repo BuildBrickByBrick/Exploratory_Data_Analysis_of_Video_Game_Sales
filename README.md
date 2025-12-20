@@ -1,3 +1,7 @@
+
+<img width="1173" height="678" alt="image" src="https://github.com/user-attachments/assets/213ad1ad-5363-4d6c-88b0-bda33f202783" />
+<img width="1184" height="673" alt="image" src="https://github.com/user-attachments/assets/698f38a2-7db0-41b3-8ad9-272614de57a6" />
+<img width="1222" height="760" alt="image" src="https://github.com/user-attachments/assets/73df1ac1-e916-42bc-baef-088d585b0519" />
 # INNER HELL: Psychological Survival Architect
 
 **INNER HELL** is a high-performance, browser-based 2.5D retro-FPS engineered with a custom raycasting engine and powered by the **Google Gemini API**. It explores the intersection of psychological archetypes and procedural gameplay, manifesting user-defined fears into complex AI agents with unique behavioral traits.
